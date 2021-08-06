@@ -10,8 +10,7 @@ public class Product {
     private int storage;
     private int amount;
 
-    public Product (int id, String name, int ups, String manufacturer, int price, int storage, int amount)
-    {
+    public Product(int id, String name, int ups, String manufacturer, int price, int storage, int amount) {
         this.id = id;
         this.name = name;
         this.ups = ups;
@@ -20,7 +19,6 @@ public class Product {
         this.storage = storage;
         this.amount = amount;
     }
-
 
 
     public int getId() {
@@ -90,12 +88,5 @@ public class Product {
                 ", storage=" + storage +
                 ", amount=" + amount +
                 '}';
-    }
-    public static void getProductsByName(Product[] prod,String name){
-        for (Product num: prod){
-            if (num.name==name) {
-                System.out.println(num.name);
-            }
-        }
     }
 }
