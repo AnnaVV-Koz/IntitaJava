@@ -91,7 +91,7 @@ public class Product {
                 ", amount=" + amount +
                 '}';
     }
-    public static void listOfProductofName(Product[] prod,String name){
+    public static void getProductsByName(Product[] prod,String name){
         for (Product num: prod){
             if (num.name==name) {
                 System.out.println(num.name);
