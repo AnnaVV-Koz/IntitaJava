@@ -32,4 +32,15 @@ public class Clothing {
     public void setSize(String size) {
         this.size = size;
     }
+
+    @Override
+    public String toString() {
+        return "Clothing{" +
+                "MINIMUM_PRICE=" + MINIMUM_PRICE +
+                ", TAX_RATE=" + TAX_RATE +
+                ", description='" + description + '\'' +
+                ", price=" + price +
+                ", size='" + size + '\'' +
+                '}';
+    }
 }

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c75e874-05bd-43ac-8695-6eb8be7fdc2d" name="Default Changelist" comment="Created ShopApp application" />
+    <list default="true" id="592b4a28-c2e8-4285-be0e-9de60dabb6f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/IntitaJava____Class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/duke/choice/ClothingComporator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/duke/choice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/duke/choice/Clothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/duke/choice/Clothing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/duke/choice/ShopApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/duke/choice/ShopApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,13 +27,12 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="HomeWork_Lesson5" />
+        <entry key="$PROJECT_DIR$" value="ShopApp" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1wB3h4hn2OXJcHKvVjePFgkabH7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1wUqfuxfb3QBYHEEjZ8ZI9dDkji" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,33 +40,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Intita\Java\IntitaJava" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.intita.qa.Main" />
-      <module name="IntitaJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.intita.qa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="ShopApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="duke.choice.ShopApp" />
-      <module name="IntitaJava" />
+      <module name="IntitaJava____Class" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="duke.choice.*" />
@@ -71,58 +64,18 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ShopApp" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ShopApp" />
-        <item itemvalue="Application.ShopApp" />
-        <item itemvalue="Application.ShopApp" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4c75e874-05bd-43ac-8695-6eb8be7fdc2d" name="Default Changelist" comment="" />
-      <created>1627918272971</created>
+      <changelist id="592b4a28-c2e8-4285-be0e-9de60dabb6f7" name="Default Changelist" comment="" />
+      <created>1628523622264</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1627918272971</updated>
+      <updated>1628523622264</updated>
     </task>
-    <task id="LOCAL-00001" summary="Created ShopApp application">
-      <created>1627919559700</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1627919559700</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Created ShopApp application">
-      <created>1628256974497</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1628256974497</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Created ShopApp application">
-      <created>1628259404506</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1628259404506</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Created ShopApp application">
-      <created>1628286147987</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1628286147987</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Created ShopApp application">
-      <created>1628342590004</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1628342590005</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,9 +89,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Created ShopApp application" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created ShopApp application" />
   </component>
 </project>
