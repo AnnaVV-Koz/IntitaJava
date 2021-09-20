@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="592b4a28-c2e8-4285-be0e-9de60dabb6f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/IntitaJava____Class.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/duke/choice/ClothingComporator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/duke/choice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/duke/choice/Clothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/duke/choice/Clothing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/duke/choice/ShopApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/duke/choice/ShopApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="130d473a-ea02-4d63-860f-385b0cc5da73" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +47,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="IntitaJava____Class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="IntitaJava____Class" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
